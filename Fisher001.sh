@@ -214,7 +214,11 @@ fi
 
 banner() {
 
-
+printf "\e[1;31m fffffff  i  ssssss  h    h   eeeeee  rrrrrrr           \e[0m\n"       
+printf "\e[1;32m f        i  s       h    h   e       r     r           \e[0m\n"
+printf "\e[1;33m fffffff  i  ssssss  hhhhhh   eeeeee  rrrrrrr           \e[0m\n"
+printf "\e[1;34m f        i       s  h    h   e       r  r             \e[0m\n"
+printf "\e[1;35m f        i  ssssss  h    h   eeeeee  r   r            \e[0m\n"
 printf "     \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
 printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by FISHER.    ::\e[0m\n"
 printf "     \e[101m\e[1;77m:: Only use for educational purporses!!                      ::\e[0m\n"
